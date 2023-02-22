@@ -1,3 +1,3 @@
-# "Linux do Zero" Bootcamp DIO
+# Bootcamp DIO
 
-### Este repositório faz parte do projeto de curso proposto no Bootcamp DIO "Linux do Zero", sob o nome "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso".
+### Este repositório faz parte do projeto de curso proposto em Bootcamps DIO, sob o nome "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso".
